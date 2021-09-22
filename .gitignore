@@ -24,3 +24,5 @@ npm-debug.log*
 backend/Include
 backend/Lib
 backend/Scripts
+
+urls.txt
